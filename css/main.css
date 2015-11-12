@@ -1,0 +1,28 @@
+body
+{
+	font-family:Arial,Helvetica, sans-serif;
+}
+h1
+{
+	margin-top:0;
+	position:absolute;
+	top		:0;
+	left	:400px;
+}
+.txt
+{
+	position: absolute;
+	top		: 60px;
+	left	: 6px;
+}
+.txt a
+{
+	color :blue;
+	font-weight:bold;
+}
+.graphic
+{
+	position: absolute;
+	top		: 60px;
+	left	: 500px;
+}
